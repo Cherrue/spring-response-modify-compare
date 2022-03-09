@@ -1,0 +1,8 @@
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/SampleController.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/filter/SampleConfiguration.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/filter/FilterServletOutputStream.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/filter/ResponseBodyWrapper.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/Application.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/entity/ParentEntity.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/entity/ChildEntity.java
+/Users/cherrue/workspace/benchmark/modifybyfilter/src/main/java/me/cherrue/modifybyfilter/filter/SampleFilter.java
