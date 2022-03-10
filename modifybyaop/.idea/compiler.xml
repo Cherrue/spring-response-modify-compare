@@ -9,11 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="modifybyconverter" />
         <module name="modifybyfilter" />
+        <module name="modifybyaop" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="modifybyaop" options="-parameters" />
       <module name="modifybyconverter" options="-parameters" />
       <module name="modifybyfilter" options="-parameters" />
     </option>
